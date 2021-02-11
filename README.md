@@ -1,7 +1,7 @@
 # bonussystem-issues
 
 Probleme und Erweitungsanfragen für das Bonussystem werden hier dokumentiert.
-Klicke dazu oben auf Issues oder folge diesem Link: https://github.com/atar-axis/bonussystem-issues/issues
+Klicke dazu oben auf `Issues` und dann auf `new issue` oder folge diesem Link: https://github.com/atar-axis/bonussystem-issues/issues
 
 * Beschreibe Fehler so genau wie möglich, so, dass man sie replizieren kann.
   * Geht es um das Adminpanel oder die Patientenansicht?
